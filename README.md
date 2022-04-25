@@ -20,9 +20,6 @@ $ python2 setup.py install
 
 how to Decrypt? Clone The exes File Repo
 And enter The File 🗄️
-type: mardis file.py
+type: flame file.py
 
-Video Tutorial in my page:
-https://www.facebook.com/106299581851808/posts/144676154680817/?substory_index=0&app=fbl
 
-            
